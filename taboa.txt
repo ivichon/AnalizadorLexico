@@ -1,0 +1,8 @@
+package 300
+import 301
+func 302
+go 303
+chan 304
+range 305
+for 306
+var 307
